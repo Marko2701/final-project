@@ -1,0 +1,26 @@
+#candidateUser {
+    display: flex;
+    align-items: center;
+    width: 48%;
+}
+
+#candidateUser img {
+    width: 100%;   
+}
+
+#image {
+    width: 10%;
+    padding-right: 30px;
+    padding-left: 20px;
+}
+
+#candidateUser:hover {
+    color: #ffffff;
+    background-color: #4381a5;
+    cursor: pointer;
+}
+
+.selected {
+   color: #ffffff;
+    background-color: #4381a5;
+}

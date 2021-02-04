@@ -1,0 +1,37 @@
+.user {
+    width: 30%;
+    text-align: center;
+    border-bottom: 1px solid #000000;
+    margin-bottom: 20px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    -webkit-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.6); 
+    box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.6);
+}
+
+.user img {
+    margin-top: 20px;
+    width: 50%;
+    height: 250px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.user:hover {
+    background: #020024;
+    background: linear-gradient(90deg, #020024 0%, #2d5065 50%, #4381a5 100%);
+}
+
+.user:hover a {
+    color: #ffffff;
+}
+@media screen and (min-device-width: 321px) and (max-device-width: 768px){
+    .user{
+        width: 46%;
+    }
+}
+@media screen and (max-width: 320px){
+    .user{
+        width: 80%;
+    }
+}

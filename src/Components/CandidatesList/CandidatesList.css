@@ -1,0 +1,18 @@
+#candidatesList {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px;
+}
+
+#candidates {
+    width: 70%;
+    margin-top: 30px;
+}
+
+#candidateSearch {
+    margin-left: 65%;
+}
+
+#candidateButton {
+    margin-left: 74%;
+}

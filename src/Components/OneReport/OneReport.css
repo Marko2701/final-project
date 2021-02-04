@@ -1,0 +1,20 @@
+.reportData{
+    display: flex;
+}
+.data{    
+    display: flex;
+    margin-left: 30px;
+}
+.companyName{
+    width: 150px;
+}
+.candidateName{
+    width: 100px;
+}
+.status{
+    width: 60px;
+}
+.icon{
+    width: 20px;
+}
+ul:nth-child(even) {background-color:rgb(211, 222, 233);}

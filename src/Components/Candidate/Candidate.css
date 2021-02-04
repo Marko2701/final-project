@@ -1,0 +1,21 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.wrapper img {
+    width: 20%;
+}
+
+.fontSize {
+    font-size: 20px;
+}
+.col{
+    margin-left: 20px;
+}
+
+
+

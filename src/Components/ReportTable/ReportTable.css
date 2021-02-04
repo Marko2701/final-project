@@ -1,0 +1,21 @@
+.table {
+    width: 70%;
+}
+
+.table, td, th{
+    border: 1px solid black;  
+    margin: auto;
+    border-collapse: collapse;
+}
+
+td, th { 
+    padding: 10px;
+}
+
+td i:hover {
+    cursor: pointer;
+}
+
+td:nth-child(4) {
+    text-align: center;
+}

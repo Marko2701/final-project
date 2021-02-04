@@ -1,0 +1,18 @@
+#loginForm {
+    width: 30%;  
+    margin: 0 auto;
+    margin-top: 200px;
+    text-align: center;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(45,80,101,1) 50%, rgba(67,129,165,1) 100%);
+    color: white;
+    padding: 20px 0;
+}
+
+.loginButton {
+    margin-top: 20px;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(45,80,101,1) 50%, rgba(67,129,165,1) 100%);
+    color: white;
+    border: 1px solid white;
+    width: 60px;
+    padding: 5px;
+}

@@ -1,0 +1,26 @@
+.header2 {
+    display: flex;
+justify-content: space-around;
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(45,80,101,1) 50%, rgba(67,129,165,1) 100%);
+color: white;
+}
+
+.buttons {
+    margin: auto;
+    margin-right: 100px;
+  
+}
+ .headerTitle{
+     margin-left: 50px;
+     
+ }   
+ .button {
+    border: 1px solid white;
+    color: white;
+    background-color: transparent;
+    font-weight: bold;   
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 10px;
+ }

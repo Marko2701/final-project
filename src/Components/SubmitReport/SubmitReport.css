@@ -1,0 +1,33 @@
+#select {
+    display: flex;
+    
+}
+
+#wrapper {
+    width: 70%;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.wrappers {
+    width: 33%;
+}
+
+.wrappers input {
+    width: 80%;
+    margin-right: 20px;
+}
+.wrappers select {
+    width: 80%;
+}
+
+textarea {
+    width: 92%;
+}
+
+#reportButtons {
+    width: 92%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
